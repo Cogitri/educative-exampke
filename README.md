@@ -1,6 +1,6 @@
 # educative-example
 
-This C++ package prints out a nicely formatted SHA512 of any file.
+This C++ package prints out a nicely formatted MD5 checksum of any file.
 
 ## Installation
 

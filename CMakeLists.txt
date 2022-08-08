@@ -23,3 +23,4 @@ target_link_libraries(testShaer core Boost::unit_test_framework)
 add_test(NAME testShaer COMMAND testShaer)
 
 configure_file(LICENSE LICENSE COPYONLY)
+install(TARGETS shaer RUNTIME DESTINATION bin)
